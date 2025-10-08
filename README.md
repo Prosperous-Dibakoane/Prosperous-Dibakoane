@@ -58,7 +58,7 @@ An AR-based app for trying on **hairstyles & glasses** virtually using your phon
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prosperousdibakoane&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prosperous-Dibakoane&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
