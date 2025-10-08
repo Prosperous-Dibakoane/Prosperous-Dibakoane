@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1778431/screenshots/15979853/media/8b7f4b2e759e4db16f539ae3e94b1ee1.png" alt="Dev Banner" width="800"/>
+  <img src="https://cdn.xxx/path/to/that-image.jpg" alt="Dev Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Prosperous Dibakoane</h1>
@@ -8,12 +8,6 @@
   <em>Software Engineering Student | Full-Stack Developer | Creator of Tech that Cares 💙</em>
 </p>
 
-
-<h1 align="center">Hey there 👋, I'm Prosperous Dibakoane</h1>
-
-<p align="center">
-  <em>Software Engineering Student | Full-Stack Developer | Creator of Tech that Cares 💙</em>
-</p>
 
 ### 🌍 About Me
 
