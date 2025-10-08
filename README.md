@@ -13,7 +13,7 @@
 
 🌟 Based in **South Africa**  
 💡 Passionate about **building apps that make life safer, smarter, and simpler**  
-📱 Exploring **Flask**, **Firebase**, and **AI-driven mobile app development**  
+📱 Exploring **MERN STACK**, **Firebase**, and **AI-driven mobile app development**  
 ⚡ I turn **ideas into impact** — one line of code at a time  
 🎧 When I’m not coding, I’m probably **mentoring, designing, or vibing to music**
 
@@ -32,24 +32,6 @@
 
 #### ☁️ DevOps & Cloud (Learning)
 `Docker` •  `CI/CD Pipelines`
-
----
-
-### 🚀 Featured Projects
-
-#### 🚨 SafeConnect  
-A safety app that allows users to instantly alert their **top 3 emergency contacts** with one tap.  
-→ _Flask + Firebase + Geolocation API_
-
-#### 🧠 Should I Do It?  
-A fun decision-making web app that helps users make everyday choices — the smart (or funny) way.  
-→ _HTML + JavaScript + CSS_
-
-#### 🕶️ AR Try-On  
-An AR-based app for trying on **hairstyles & glasses** virtually using your phone camera.  
-→ _React Native + ARCore_
-
-> *“Every project is a small rebellion against limitation.”*
 
 ---
 
