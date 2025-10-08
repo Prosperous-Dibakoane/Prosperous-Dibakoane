@@ -53,8 +53,8 @@ An AR-based app for trying on **hairstyles & glasses** virtually using your phon
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prosperousdibakoane&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosperousdibakoane&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prosperous-Dibakoane&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prosperous-Dibakoane&theme=tokyonight" height="160">
 </p>
 
 <p align="center">
