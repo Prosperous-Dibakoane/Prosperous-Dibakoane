@@ -20,7 +20,7 @@
 `Python` • `Java` • `JavaScript` • `C#` • `SQL`
 
 #### ⚙️ Frameworks & Tools
-`Flask` • `React` • `Spring Boot` • `Firebase` • `Bootstrap` • `Git & GitHub` •  `CI/CD Pipelines`
+`Flask` • `React` •  `Express` • `Node` • `Git & GitHub` •  `CI/CD Pipelines` 
 
 ---
 
@@ -60,5 +60,5 @@
 ---
 
 <p align="center">
-  💡 *“Keep learning. Keep building. The future is written in code.”*  
+  💡 Keep learning. Keep building. The future is written in code.
 </p>
