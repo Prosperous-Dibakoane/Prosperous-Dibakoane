@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://cdn.xxx/path/to/that-image.jpg" alt="Dev Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey there 👋, I'm Prosperous Dibakoane</h1>
 
 <p align="center">
@@ -12,8 +8,7 @@
 ### 🌍 About Me
 
 🌟 Based in **South Africa**  
-💡 Passionate about **building apps that make life safer, smarter, and simpler**  
-📱 Exploring **MERN STACK**, **Firebase**, and **AI-driven mobile app development**  
+💡 Passionate about **building apps that make life safer, smarter, and simpler**   
 ⚡ I turn **ideas into impact** — one line of code at a time  
 🎧 When I’m not coding, I’m probably **mentoring, designing, or vibing to music**
 
@@ -25,13 +20,7 @@
 `Python` • `Java` • `JavaScript` • `C#` • `SQL`
 
 #### ⚙️ Frameworks & Tools
-`Flask` • `React` • `Spring Boot` • `Firebase` • `Bootstrap` • `Git & GitHub`
-
-#### 🗄️ Databases
-`MySQL` • `Firebase Realtime DB` • `SQLite`
-
-#### ☁️ DevOps & Cloud (Learning)
-`Docker` •  `CI/CD Pipelines`
+`Flask` • `React` • `Spring Boot` • `Firebase` • `Bootstrap` • `Git & GitHub` •  `CI/CD Pipelines`
 
 ---
 
