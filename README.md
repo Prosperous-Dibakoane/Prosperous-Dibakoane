@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Prosperous Dibakoane</h1>
 
 <p align="center">
-  <em>Software Engineering Student | Full-Stack Developer | Creator of Tech that Cares 💙</em>
+  <em>💙 Software Engineering Student | Full-Stack Developer | Creator of Tech that Cares 💙</em>
 </p>
 
 
@@ -39,8 +39,6 @@
 
 ### 🌱 Currently Learning
 
-🧩 Building full-stack apps with **Flask + Firebase**  
-🤖 Getting started with **Machine Learning**  
 ☁️ Exploring **AWS and DevOps tools**
 
 ---
