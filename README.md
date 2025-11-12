@@ -8,7 +8,7 @@
 ### 🌍 About Me
 
 🌟 Based in **South Africa**  
-💡 Passionate about **building apps that make life safer, smarter, and simpler**   
+💡 Passionate about **Machine Learning as well as building Apps that make life Safer and Simpler**   
 ⚡ I turn **ideas into impact** — one line of code at a time  
 🎧 When I’m not coding, I’m probably **mentoring, designing, or vibing to music**
 
