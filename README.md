@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="ChatGPT Image Oct 17, 2025, 06_06_35 PM" src="https://github.com/user-attachments/assets/828c5fbb-9b54-4541-a688-b76be867e044" />
 
 <h1 align="center">Hey there 👋, I'm Prosperous Dibakoane</h1>
 
