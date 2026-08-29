@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Prosperous Dibakoane</h1>
 
 <p align="center">
-  <em>💙 Software Engineering Student | Full-Stack Developer | Creator of Tech that Cares 💙</em>
+  <em>💙 Software Engineering | Full-Stack Developer | Creator of Tech that Cares 💙</em>
 </p>
 
 
